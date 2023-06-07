@@ -58,7 +58,6 @@
 
   # CPU and interrupts
   INF  UefiCpuPkg/CpuIo2Dxe/CpuIo2Dxe.inf
-  INF  OpenCorePkg/Legacy/BootPlatform/CpuDxe/CpuDxe.inf
   INF  OvmfPkg/8259InterruptControllerDxe/8259.inf
   INF  OpenCorePkg/Legacy/BootPlatform/AcpiResetDxe/Reset.inf
 
