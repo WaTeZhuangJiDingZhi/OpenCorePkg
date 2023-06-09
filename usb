@@ -1,0 +1,6 @@
+USB restriction patches for MacOS11 to 14 systems, Check XhciPortLimit and then all USB ports can be used, breaking the limit of 15 ports
+.Hope to integrate this patch into opencore
+USB restriction patches for MacOS11 to 14 systems, Check XhciPortLimit and then all USB ports can be used, breaking the limit of 15 ports
+.Hope to integrate this patch into opencore
+Wate-macOS-XhciPortLimit-Patch.plist.zip
+https://github.com/WaTeZhuangJiDingZhi/wate
